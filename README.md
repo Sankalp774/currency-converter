@@ -6,7 +6,6 @@ Features
 
 Convert between multiple currencies with real-time exchange rates.
 
-User-friendly interface for quick and easy conversions.
 
 
 
