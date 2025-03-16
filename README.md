@@ -10,4 +10,3 @@ User-friendly interface for quick and easy conversions.
 
 Supports a wide range of global currencies.
 
-Lightweight and efficient performance.
