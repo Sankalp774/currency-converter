@@ -8,5 +8,5 @@ Convert between multiple currencies with real-time exchange rates.
 
 User-friendly interface for quick and easy conversions.
 
-Supports a wide range of global currencies.
+
 
